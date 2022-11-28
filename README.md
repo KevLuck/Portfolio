@@ -11,4 +11,6 @@ I've included a couple of samples of my work in the My Work section in addition 
 This page was designed to work on tablets and mobile devices of different sizes.
 The various links and projects on the page also have hover effects.
 
+Deployed to https://kevluck.github.io/Portfolio/
+
 ![Screenshot](https://user-images.githubusercontent.com/116979866/204178978-5388fd72-af62-4220-94fe-2528b57c482a.png)
